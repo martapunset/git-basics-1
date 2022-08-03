@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ffffgit status
+=======
+ffffrrrgit statuts
+>>>>>>> develop
